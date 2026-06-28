@@ -27,17 +27,19 @@ pip install requests orjson psutil httpx
 
 ## 使用
 
+请先在手机端B站 BW乐园 功能中验证激活门票！！！
+
 脚本不会在代码里保存 Cookie。运行前任选一种方式配置：
 
 ```bash
 set BW_COOKIE=你的完整B站Cookie
-python bw乐园.py
+python bws.py
 ```
 
 或在脚本同目录创建 `cookie.txt`，写入完整 Cookie 后运行：
 
 ```bash
-python bw乐园.py
+python bws.py
 ```
 
 如需调整日期、线程数、提前量等参数，可修改 `bw乐园.py` 中的 `TICKET_DAYS` 和 `CFG`。

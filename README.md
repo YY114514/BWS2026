@@ -7,7 +7,7 @@ https://github.com/kaguraaya/bw-leyuan
 
 # BW 乐园预约脚本
 
-这是一个用于参考学习的 Bilibili World 2025 乐园活动资格预约脚本，主要功能包括：
+这是一个用于参考学习的 Bilibili World 2026 乐园活动资格预约脚本，主要功能包括：
 
 - 校验 B 站登录 Cookie
 - 查询 BW 乐园活动和商品预约信息
